@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "19868138191",
+    "firebase_url": "https://vybesx.firebaseio.com",
+    "project_id": "vybesx",
+    "storage_bucket": "vybesx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19868138191:android:892502d9e522d4c93115ba",
+        "android_client_info": {
+          "package_name": "com.vybesxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19868138191-gc0kn8kopdfc4edboa9o0r2hj03eb3vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vybesxapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "19868138191-9dhriifaeltk6fi9a22crvmgkf4fc2it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVcsqiFYVHxaJnzqLwNRkgWX5wjTpfwqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19868138191-9dhriifaeltk6fi9a22crvmgkf4fc2it.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19868138191-5l6jsv4nhufj34t8isqj3logsvjsglo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vybesx.appkol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

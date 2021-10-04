@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vybes</string>
+
+    <string name="title_activity_recommend_products">RecommendProducts</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="preference_file_key">co.getvybes.PREFERENCE_FILE_KEY</string>
+    <string name="default_notification_channel_id">vybesx_app_notification</string>
+    <string name="fcm_message">From Vybes</string>
+    <string name="event_receive_notification">Push Notifications Receive</string>
+</resources>
